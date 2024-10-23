@@ -47,8 +47,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shivateja20013/rule_engine_backend.git
-   cd rule_engine_backend
+   git clone https://github.com/AwnishRanjan/Zeotap.git
+   cd backend/src
    ```
 
 2. Install the required dependencies:
@@ -58,8 +58,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 3. Create a database: The database will be automatically created when you run the app for the first time.
 
-4. Run the FastAPI application:
-uvicorn main:app --reload
+4. Run the FastAPI application and checkup with docs setup localhost:8000/docs:
+uvicorn main:app --reload 
 
 
 
@@ -92,3 +92,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `some Improvements`
+
+There are still some areas where we can improve the engine's performance and productivity of the code and make it simple and more understandable.
